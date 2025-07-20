@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sonaimuthu K
 
-<!--
-**sonaimuthu-k/sonaimuthu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Final-year Artificial Intelligence and Data Science student passionate about building scalable web applications and intelligent systems.
 
-Here are some ideas to get you started:
+### 🔥 Skills & Technologies:
+- **Languages**: Java, Python, JavaScript, PHP, SQL, HTML5, CSS3
+- **Frameworks**: Spring Boot, REST APIs
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code, IntelliJ, Postman
+- **Areas of Interest**: Full Stack Development, Software Engineering, AI & Machine Learning, Cloud (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Projects:
+- Online Flood Disaster Helpline System (PHP + MySQL)
+- Responsive E-Commerce Web App (HTML/CSS/JS)
+- Exploring AWS Cloud & RESTful API design
+
+### 🎯 What I’m Working On:
+- Mastering Spring Framework & REST APIs
+- Deepening expertise in cloud-native architectures
+- Problem-solving on LeetCode
+
+
+🚀 Always learning. Always building. Let’s reimagine the future together.
